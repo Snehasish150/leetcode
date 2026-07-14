@@ -7,6 +7,7 @@
 | [1288-remove-covered-intervals](https://github.com/Snehasish150/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Snehasish150/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Snehasish150/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Snehasish150/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Snehasish150/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Snehasish150/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Snehasish150/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Snehasish150/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Snehasish150/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -66,6 +68,7 @@
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Snehasish150/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Snehasish150/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Snehasish150/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -80,4 +83,8 @@
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Snehasish150/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Snehasish150/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
