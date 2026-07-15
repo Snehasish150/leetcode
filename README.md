@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Snehasish150/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1288-remove-covered-intervals](https://github.com/Snehasish150/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Snehasish150/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Snehasish150/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -79,6 +80,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Snehasish150/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Snehasish150/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -89,4 +91,8 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Snehasish150/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Snehasish150/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Snehasish150/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
