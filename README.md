@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Snehasish150/leetcode/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/Snehasish150/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1288-remove-covered-intervals](https://github.com/Snehasish150/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Snehasish150/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -65,6 +66,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Snehasish150/leetcode/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Snehasish150/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Math
 |  |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Snehasish150/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Snehasish150/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
